@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2550 300" xmlns:bx="https://boxy-svg.com">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2550 500" xmlns:bx="https://boxy-svg.com">
   <defs>
     <bx:export>
       <bx:file format="png"/>
@@ -9,12 +9,12 @@
       <stop offset="0.389" style="stop-color: rgba(255, 255, 255, 0.26);"/>
       <stop offset="1" style="stop-color: rgba(255, 255, 255, 0);"/>
     </linearGradient>
-    <radialGradient id="gradient-1-0" href="#gradient-1" gradientUnits="userSpaceOnUse" cx="185.34" cy="361.56" r="101.677" gradientTransform="matrix(1, 0, 0, 1, -26.75635, -203.294228)"/>
+    <radialGradient id="gradient-1-0" href="#gradient-1" gradientUnits="userSpaceOnUse" cx="185.34" cy="361.56" r="101.677" gradientTransform="matrix(1, 0, 0, 1, 70.676613, -108.475677)"/>
   </defs>
-  <path style="fill: rgb(20, 198, 0);" d="M 0 0 L 0 300.03 L 415 300 C 415 200 415 0 115 0 L 0 0 Z"/>
-  <path style="fill: rgb(233, 96, 13);" d="M 0 0 L 0 300.03 L 365 300 C 365 200 365 0 65 0 L 0 0 Z"/>
-  <path style="fill: rgb(5, 0, 119);" d="M 0 0 L 0 300.028 L 315 300 C 315 200 315 0 15 0 L 0 0 Z"/>
-  <path d="M 158.5 100 L 176.796 139.204 L 216 157.5 L 176.796 175.796 L 158.5 215 L 140.204 175.796 L 101 157.5 L 140.204 139.204 Z" bx:shape="star 158.5 157.5 57.5 57.5 0.45 4 1@5d98f7d2" style="fill: rgb(255, 255, 255); stroke-width: 10px;"/>
-  <ellipse style="fill: url(&quot;#gradient-1-0&quot;);" cx="158.584" cy="158.266" rx="101.677" ry="101.677"/>
-  <text style="fill: rgb(51, 51, 51); font-family: &quot;Avenir Next&quot;; font-size: 398.5px; letter-spacing: -5.2px; white-space: pre;" x="506.029" y="292.896">PromptDict</text>
+  <path style="fill: rgb(20, 198, 0);" d="M 97.432 94.818 L 97.432 394.848 L 512.432 394.818 C 512.432 294.818 512.432 94.818 212.432 94.818 L 97.432 94.818 Z"/>
+  <path style="fill: rgb(233, 96, 13);" d="M 97.432 94.818 L 97.432 394.848 L 462.432 394.818 C 462.432 294.818 462.432 94.818 162.432 94.818 L 97.432 94.818 Z"/>
+  <path style="fill: rgb(5, 0, 119);" d="M 97.432 94.818 L 97.432 394.846 L 412.432 394.818 C 412.432 294.818 412.432 94.818 112.432 94.818 L 97.432 94.818 Z"/>
+  <path d="M 255.932 194.818 L 274.228 234.022 L 313.432 252.318 L 274.228 270.614 L 255.932 309.818 L 237.636 270.614 L 198.432 252.318 L 237.636 234.022 Z" bx:shape="star 255.932 252.318 57.5 57.5 0.45 4 1@69a491cd" style="fill: rgb(255, 255, 255); stroke-width: 10px;"/>
+  <ellipse style="fill: url(&quot;#gradient-1-0&quot;);" cx="256.016" cy="253.084" rx="101.677" ry="101.677"/>
+  <text style="fill: rgb(51, 51, 51); font-family: &quot;Arial Hebrew Scholar&quot;; font-size: 398.5px; letter-spacing: -7px; white-space: pre;" x="591.234" y="381.872">PromptDict</text>
 </svg>
