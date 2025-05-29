@@ -12,21 +12,25 @@
  
 
   "navigation": {
-      "tabs": [
+    "tabs": [
       {
         "tab": "Guides",
-        "groups": [
-          {
-            "group": "Get Started",
-            "pages": [
-              "index"
+        "languages": [
+              {
+                "language": "en",
+                "groups": [
+                  {
+                    "group": "Get Started",
+                    "pages": ["index"]
+                  }
+                ]
+              }
+              
             ]
-          }
-        ]
       }
-      ]       
-             
       
+    ]
+    
   },
   "logo": {
     "light": "/logo/light1.svg",
