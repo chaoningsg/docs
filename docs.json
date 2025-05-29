@@ -21,7 +21,16 @@
                 "groups": [
                   {
                     "group": "Get Started",
-                    "pages": ["index"]
+                    "pages": ["en/index"]
+                  }
+                ]
+              },
+              {
+                "language": "es",
+                "groups": [
+                  {
+                    "group": "Get Started",
+                    "pages": ["es/index"]
                   }
                 ]
               }
