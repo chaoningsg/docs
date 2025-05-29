@@ -12,14 +12,19 @@
  
 
   "navigation": {
-
-
-                "groups": [
-                  {
-                    "group": "Get Started",
-                    "pages": ["en/index"]
-                  }
-                ]
+      "tabs": [
+      {
+        "tab": "Guides",
+        "groups": [
+          {
+            "group": "Get Started",
+            "pages": [
+              "en/index"
+            ]
+          }
+        ]
+      }
+      ]       
              
       
   },
