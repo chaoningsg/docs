@@ -15,7 +15,9 @@
     "tabs": [
       {
         "tab": "Guides",
-        
+        "languages": [
+              {
+                "language": "en",
                 "groups": [
                   {
                     "group": "Get Started",
@@ -24,7 +26,10 @@
                 ]
               }
               
-         
+              
+            ]
+      }
+      
     ]
     
   },
