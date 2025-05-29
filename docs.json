@@ -8,16 +8,35 @@
     "dark": "#3c70a5"
   },
   "favicon": "/favicon.ico",
+  
+ 
+
   "navigation": {
     "tabs": [
       {
         "tab": "Guides",
         "groups": [
           {
+            "languages": [
+      {
+        "language": "en",
+        "groups": [
+          {
             "group": "Get Started",
-            "pages": [
-              "index"
-            ]
+            "pages": ["en/index"]
+          }
+        ]
+      },
+      {
+        "language": "es",
+        "groups": [
+          {
+            "group": "Get Started",
+            "pages": ["es/index"]
+          }
+        ]
+      }
+    ]
           }
           
         ]
