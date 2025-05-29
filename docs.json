@@ -28,6 +28,22 @@
               
               
             ]
+      },
+      {
+        "tab": "Examples",
+        "languages": [
+              {
+                "language": "en",
+                "groups": [
+                  {
+                    "group": "Get Started",
+                    "pages": ["examples"]
+                  }
+                ]
+              }
+              
+              
+            ]
       }
       
     ]
