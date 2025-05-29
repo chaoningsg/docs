@@ -21,7 +21,7 @@
                 "groups": [
                   {
                     "group": "Get Started",
-                    "pages": ["en/index"]
+                    "pages": ["index"]
                   }
                 ]
               }
