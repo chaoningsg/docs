@@ -13,26 +13,14 @@
 
   "navigation": {
 
-        "languages": [
-              {
-                "language": "en",
+
                 "groups": [
                   {
                     "group": "Get Started",
                     "pages": ["en/index"]
                   }
                 ]
-              },
-              {
-                "language": "es",
-                "groups": [
-                  {
-                    "group": "Get Started",
-                    "pages": ["es/index"]
-                  }
-                ]
-              }
-            ]
+             
       
   },
   "logo": {
